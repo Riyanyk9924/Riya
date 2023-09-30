@@ -1,3 +1,3 @@
 # Riya
-This is my first git repository
-aythor-Riya Nayak
+This is my first git repository 
+author-Riya Nayak
